@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <defaultLandingTab>Open_Redirect_Basics_Demo</defaultLandingTab>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <label>Open Redirect</label>
+    <tabs>standard-Chatter</tabs>
+    <tabs>Overview</tabs>
+    <tabs>Open_Redirect_Basics_Demo</tabs>
+    <tabs>Open_Redirect_Basics_Challenge</tabs>
+    <tabs>Standard_Redirect_Protections_Demo</tabs>
+    <tabs>Visualforce_Anti_Protections_Demo</tabs>
+    <tabs>Standard_Redirect_Protections_Challenge</tabs>
+    <tabs>Relative_URL_Protection_Demo</tabs>
+    <tabs>URL_Validation_Protection_Demo</tabs>
+    <tabs>Prevent_Open_Redirect_Challenge</tabs>
+</CustomApplication>

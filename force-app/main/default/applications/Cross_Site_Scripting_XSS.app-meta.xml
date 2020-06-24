@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <defaultLandingTab>XSS_Basics_Demo</defaultLandingTab>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <label>Cross-Site Scripting (XSS)</label>
+    <tabs>standard-Chatter</tabs>
+    <tabs>Overview</tabs>
+    <tabs>XSS_Basics_Demo</tabs>
+    <tabs>XSS_Basics_Challenge</tabs>
+    <tabs>Built_In_XSS_Protections_Challenge</tabs>
+    <tabs>XSS_Visualforce_Mitigations_Demo</tabs>
+    <tabs>XSS_Apex_Mitigations_Demo</tabs>
+    <tabs>XSS_Mitigations_Challenge</tabs>
+</CustomApplication>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <defaultLandingTab>standard-home</defaultLandingTab>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <tabs>standard-Chatter</tabs>
+    <tabs>standard-Account</tabs>
+    <tabs>standard-Contact</tabs>
+    <tabs>standard-report</tabs>
+    <tabs>standard-Dashboard</tabs>
+    <tabs>CSRF_Mitigation_Demo</tabs>
+    <tabs>CSRF_Demo</tabs>
+    <tabs>Clickjacking_Vulnerable_Demo</tabs>
+    <tabs>Disloyal_Subjects</tabs>
+    <tabs>Treasures__c</tabs>
+    <tabs>Overview</tabs>
+    <tabs>Coin_Purse__c</tabs>
+    <tabs>Sharing_Demo</tabs>
+    <tabs>Sharing_Challenge</tabs>
+    <tabs>Creature__c</tabs>
+    <tabs>Apex_Encryption_Demo</tabs>
+    <tabs>Apex_encryption_challenge</tabs>
+    <uiType>Aloha</uiType>
+</CustomApplication>

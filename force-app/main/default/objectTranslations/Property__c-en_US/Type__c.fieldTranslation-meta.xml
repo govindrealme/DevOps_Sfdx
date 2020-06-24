@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Type --></label>
+    <name>Type__c</name>
+    <picklistValues>
+        <masterLabel>Bailey</masterLabel>
+        <translation><!-- Bailey --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Battlement</masterLabel>
+        <translation><!-- Battlement --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Chambers</masterLabel>
+        <translation><!-- Chambers --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Chapel</masterLabel>
+        <translation><!-- Chapel --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Drawbridge</masterLabel>
+        <translation><!-- Drawbridge --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Dungeon</masterLabel>
+        <translation><!-- Dungeon --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Garrison</masterLabel>
+        <translation><!-- Garrison --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Gate</masterLabel>
+        <translation><!-- Gate --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Keep</masterLabel>
+        <translation><!-- Keep --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Kitchen</masterLabel>
+        <translation><!-- Kitchen --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Moat</masterLabel>
+        <translation><!-- Moat --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Other Building</masterLabel>
+        <translation><!-- Other Building --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Other Fortification</masterLabel>
+        <translation><!-- Other Fortification --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Portcullis</masterLabel>
+        <translation><!-- Portcullis --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Stables</masterLabel>
+        <translation><!-- Stables --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Tower</masterLabel>
+        <translation><!-- Tower --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Wall</masterLabel>
+        <translation><!-- Wall --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

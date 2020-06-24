@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Id for a common monster in this region --></help>
+    <label><!-- Common Monster --></label>
+    <name>Common_Monster__c</name>
+</CustomFieldTranslation>

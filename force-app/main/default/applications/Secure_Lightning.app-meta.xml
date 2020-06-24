@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#F4EEB6</headerColor>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <label>Secure Lightning</label>
+    <navType>Standard</navType>
+    <tabs>Secure_Lightning</tabs>
+    <tabs>Unescaped_HTML_Demo</tabs>
+    <tabs>Unsafe_Href_Demo</tabs>
+    <tabs>Secure_Component_Challenge</tabs>
+    <tabs>SecureFilters_Demo</tabs>
+    <tabs>SecureFilters_Challenge</tabs>
+    <tabs>Access_Control_Demo</tabs>
+    <tabs>Access_Control_Challenge</tabs>
+    <tabs>Apex_Encryption_Demo</tabs>
+    <tabs>Apex_encryption_challenge</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>Secure_Lightning_UtilityBar</utilityBar>
+</CustomApplication>

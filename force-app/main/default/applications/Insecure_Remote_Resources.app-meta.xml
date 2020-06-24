@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <defaultLandingTab>Mixed_Content</defaultLandingTab>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <label>Insecure Remote Resources</label>
+    <tabs>standard-Chatter</tabs>
+    <tabs>Overview</tabs>
+    <tabs>Mixed_Content</tabs>
+    <tabs>Insecure_Remote_Resource_Challenge</tabs>
+</CustomApplication>

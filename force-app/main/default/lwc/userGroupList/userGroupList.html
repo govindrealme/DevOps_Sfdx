@@ -1,0 +1,10 @@
+<template>
+    <lightning-card title="Internal Team">
+        <div class="slds-m-around_medium" >
+            <template for:each={contacts} for:item="contact">
+                <c-user-tile key={contact.Id}
+                contact={contact}></c-user-tile>
+            </template>
+        </div>
+    </lightning-card>
+</template>

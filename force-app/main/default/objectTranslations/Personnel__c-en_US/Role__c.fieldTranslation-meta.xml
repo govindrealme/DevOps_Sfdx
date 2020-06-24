@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Role --></label>
+    <name>Role__c</name>
+    <picklistValues>
+        <masterLabel>Armorer</masterLabel>
+        <translation><!-- Armorer --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Castellan</masterLabel>
+        <translation><!-- Castellan --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Chaplain</masterLabel>
+        <translation><!-- Chaplain --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Cook</masterLabel>
+        <translation><!-- Cook --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Farmer</masterLabel>
+        <translation><!-- Farmer --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Knight</masterLabel>
+        <translation><!-- Knight --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Marshall</masterLabel>
+        <translation><!-- Marshall --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Noble</masterLabel>
+        <translation><!-- Noble --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Servant</masterLabel>
+        <translation><!-- Servant --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Watchman</masterLabel>
+        <translation><!-- Watchman --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

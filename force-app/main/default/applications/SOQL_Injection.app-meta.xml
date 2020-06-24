@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <defaultLandingTab>SOQL_Injection</defaultLandingTab>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <label>SOQL Injection</label>
+    <tabs>standard-Chatter</tabs>
+    <tabs>Overview</tabs>
+    <tabs>SOQL_Injection</tabs>
+    <tabs>SOQL_Injection_Challenge</tabs>
+    <tabs>SOQL_Injection_String_Fix</tabs>
+    <tabs>SOQL_Injection_Typecasting_Fix</tabs>
+    <tabs>SOQL_Injection_Whitelist_Fix</tabs>
+    <tabs>Prevent_SOQL_Injection_Challenge</tabs>
+</CustomApplication>
